@@ -7,3 +7,4 @@ Treinamento para front-end
 -
 -Joyce
 - Willian Oliveira
+- Aline Gustavo
