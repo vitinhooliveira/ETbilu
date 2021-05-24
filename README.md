@@ -3,8 +3,7 @@ Treinamento para front-end
 
 **Integrantes**
 
-- 
--
--Joyce
+- Victor Augusto
+- Joyce
 - Willian Oliveira
 - Aline Gustavo
